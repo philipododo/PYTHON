@@ -3,7 +3,7 @@
 Replace the link below with a custom banner image (1200×300px recommended).
 ========================================================== -->
 <p align="center">
-  <img src="https://github.com/<YOUR-USERNAME>/<YOUR-USERNAME>/assets/banner.png" alt="Abdullateef Okuboye — Portfolio Banner">
+  <img src="https://github.com/<YOUR-USERNAME>/<YOUR-USERNAME>/assets/banner.png" alt="Philip — Portfolio Banner">
 </p>
 
 <h1 align="center">Hi there, I’m Abdullateef&nbsp;Okuboye 👋</h1>
