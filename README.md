@@ -3,7 +3,7 @@
 Replace the link below with a custom banner image (1200×300px recommended).
 ========================================================== -->
 <p align="center">
-  <img src="https://github.com/<YOUR-USERNAME>/<YOUR-USERNAME>/assets/banner.png" alt="Philip — Portfolio Banner">
+  <img src="https://github.com/<philipododo>/<philipododo>/assets/socialcard.png" alt="Philip — Portfolio Banner">
 </p>
 
 <h1 align="center">Hi there, I’m Philip&nbsp; 👋</h1>
@@ -14,8 +14,8 @@ Replace the link below with a custom banner image (1200×300px recommended).
 
 <p align="center">
   <a href="mailto:⬜️YOUR_EMAIL">Email</a> •
-  <a href="https://www.linkedin.com/in/⬜️YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="https://abdullateef.medium.com">Blog</a> •
+  <a href="https://www.linkedin.com/in/⬜️philip-ugbede-ododo-32802494">LinkedIn</a> •
+  <a href="https://philip.medium.com">Blog</a> •
   <a href="⬜️CLOUD_RESUME_LINK">Résumé</a>
 </p>
 
