@@ -71,7 +71,7 @@ I love collaborating on data-for-good projects, analytics-driven product strateg
 📫 **DM me on LinkedIn** or raise an issue in this repo to start a conversation.
 
 <p align="center">
-  <em>“Data tells a story—my job is to help it speak clearly.”</em>
+  <em>“Data tells a story, my job is to help it speak clearly.”</em>
 </p>
 
 <!-- =========================================================
