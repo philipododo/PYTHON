@@ -39,8 +39,8 @@ I’m finishing my MBA at **Hult International Business School (San Francisco)**
 ---
 
 ## 🎯 Featured Projects
-| Project | Stack | Highlights |
-| ------- | ----- | ---------- |
+| Project                     | Stack                       | Highlights |
+
 | **Python Analysis Project** | Jupyter, Pandas, Matplotlib | End-to-end EDA, regression, time-series forecasting; automated report generation |
 | **Dynamic Email Generator** | Python, SMTP | Custom rule-based marketing emails; 30 % uplift in open-rate during test campaign |
 | **Pet-Travel Market Dashboard** | Tableau | Interactive TAM/SAM/SOM & competitor benchmarking for Expedia Group pet-travel pitch |
