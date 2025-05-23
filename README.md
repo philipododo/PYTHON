@@ -6,7 +6,7 @@ Replace the link below with a custom banner image (1200×300px recommended).
   <img src="https://github.com/<YOUR-USERNAME>/<YOUR-USERNAME>/assets/banner.png" alt="Philip — Portfolio Banner">
 </p>
 
-<h1 align="center">Hi there, I’m Philipef&nbsp; 👋</h1>
+<h1 align="center">Hi there, I’m Philip&nbsp; 👋</h1>
 
 <p align="center">
   MBA candidate • Supply-Chain & Analytics Enthusiast • Data-Driven Problem Solver
